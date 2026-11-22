@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paris-16-75016.maisonvalet.fr/sitemap.xml
